@@ -29,7 +29,7 @@ or <a href="mailto:diegobracero@hotmail.com"><b>email</b></a> me.
 <i>Follow me around the web:</i><br>
 
 
-[![Twitter Badge](https://img.shields.io/badge/-dgbracero-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/dgbracero/)](https://twitter.com/dgbracero/)
+[![Twitter Badge](https://img.shields.io/badge/-geovannydev-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/gevannydev/)](https://twitter.com/geovannydev/)
 [![Facebook Badge](https://img.shields.io/badge/-diegogeovannyb-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/diegogeovannyb/)](https://www.facebook.com/diegogeovannyb/)
 [![Linkedin Badge](https://img.shields.io/badge/-dgbracero-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgbracero/)](https://www.linkedin.com/in/dgbracero/)
 [![Instagram Badge](https://img.shields.io/badge/-codigonegativo-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/codigonegativo/)](https://www.instagram.com//codigonegativo/)
