@@ -5,7 +5,7 @@
 
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Welcome!" width="300"/>
+<img src="https://media0.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -13,25 +13,31 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/dgbracero/dgbracero/issues/new"><b>here</b></a><br>
-or <a href="mailto:diegobracero@hotmail.com"><b>email</b></a> me.
+Ask me anything <a href="https://github.com/geoannycode/geoannycode/issues/new"><b>here</b></a><br>
+or <a href="mailto:geoannycode@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 
 </div>
 
-<div align="center">
+### Tech & Tools Preference
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=geovannydev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="dgbracero's Github Stats">
-
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Python-4DB33D?style=flat&logo=python&logoColor=ffffff">
+  
+    
 </br>
 
-<i>Follow me around the web:</i><br>
+### Follow me around the web
 
 
-[![Twitter Badge](https://img.shields.io/badge/-geovannydev-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/gevannydev/)](https://twitter.com/geovannydev/)
-[![Facebook Badge](https://img.shields.io/badge/-diegogeovannyb-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/diegogeovannyb/)](https://www.facebook.com/diegogeovannyb/)
+[![Twitter Badge](https://img.shields.io/badge/-GeoannyCode-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/geoannycode/)](https://twitter.com/geoannycode/)
+[![Facebook Badge](https://img.shields.io/badge/-GeoannyCode-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/GeoannyCode/)](https://www.facebook.com/diegogeovannyb/)
 [![Linkedin Badge](https://img.shields.io/badge/-dgbracero-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgbracero/)](https://www.linkedin.com/in/dgbracero/)
-[![Instagram Badge](https://img.shields.io/badge/-geovannydev-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/geovannydev/)](https://www.instagram.com/geovannydev/)
+[![Instagram Badge](https://img.shields.io/badge/-GeoannyCode-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/geoannycode/)](https://www.instagram.com/geoannycode/)
 
 </div>
