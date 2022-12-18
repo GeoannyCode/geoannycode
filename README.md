@@ -36,7 +36,7 @@ or <a href="mailto:geoannycode@gmail.com"><b>email</b></a> me.
 
 
 [![Twitter Badge](https://img.shields.io/badge/-GeoannyCode-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/geoannycode/)](https://twitter.com/geoannycode/)
-[![Facebook Badge](https://img.shields.io/badge/-GeoannyCode-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/GeoannyCode/)](https://www.facebook.com/diegogeovannyb/)
+[![Facebook Badge](https://img.shields.io/badge/-GeoannyCode-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/GeoannyCode/)](https://www.facebook.com/geoannycode/)
 [![Linkedin Badge](https://img.shields.io/badge/-dgbracero-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgbracero/)](https://www.linkedin.com/in/dgbracero/)
 [![Instagram Badge](https://img.shields.io/badge/-GeoannyCode-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/geoannycode/)](https://www.instagram.com/geoannycode/)
 
