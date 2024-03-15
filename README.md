@@ -6,7 +6,7 @@
   <br>
   Creating amazing things with a little bit of code and a lot of determination 💪.
   <br>
-  <img src="https://media.licdn.com/dms/image/D4E16AQHG5zkpIWZNxg/profile-displaybackgroundimage-shrink_350_1400/0/1691506372794?e=1698278400&v=beta&t=FQMkqNLwJyvBzpofzXEEOhlBQSEIjGqlQwCTM9C-y8E" alt="Welcome!"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1tb3RiMGQwdml1Y2x3enI3NXFseXdhMXQwMXJtczJ0bGV1cWV6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" alt="Welcome!"/>
   
   Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br>Ask me anything.<br><br>Happy Coding! 😊
   
